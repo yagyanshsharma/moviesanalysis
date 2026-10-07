@@ -4,7 +4,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Latest-purple.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-orange.svg)](https://matplotlib.org/)
 
-An end-to-end data analysis project exploring a massive dataset of **9,999 movies and TV shows**. This project focuses on data cleaning, parsing complex text formats, extracting insights, and visualizing trends across genres, ratings, and release years.
+data analysis project exploring a massive dataset of **9,999 movies and TV shows**. This project focuses on data cleaning, parsing complex text formats, extracting insights, and visualizing trends across genres, ratings, and release years.
 
 ---
 
@@ -43,9 +43,3 @@ The raw dataset consists of **9,999 rows** and **9 columns**:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Prerequisites
-Ensure you have Python installed, then install the required dependencies:
-```bash
-pip install pandas numpy matplotlib
